@@ -77,6 +77,297 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 
 ---
 
+### Ruha Benjamin
+**Book:** *Race After Technology: Abolitionist Tools for the New Jim Code* (2019, Polity Press)  
+**Key Arguments:**
+- Technology is not "neutral" — it embeds and amplifies racial hierarchies
+- **"The New Jim Code"**: How digital tools replicate and deepen racial control
+- Innovation often **reinforces** rather than undermines systems of racial inequality
+- Race is a **product** of technology, not just affected by it
+
+**Key Concepts:**
+- **Coded inequality**: How algorithms naturalize racial disparities
+- **Technological benevolence**: The myth that tech "fixes" social problems
+- **Innovation as politics**: Every design choice encodes political values
+
+**Connection to Platform Power:**
+- Social media platforms are not "neutral infrastructure" but active producers of racial ordering
+- "Engagement" metrics encode racialized attention economies
+- Platform "innovations" (algorithms, moderation) reproduce carceral logics
+
+**Essential Reading:**
+- *Race After Technology* — full framework for understanding technological racism
+- "Catching Our Breath: Critical Race STS and the Carceral Imagination" (2016)
+
+---
+
+### Jessica Valenti
+**Books:** *Sex Object: A Memoir* (2016), *Full Frontal Feminism* (2007), *The Purity Myth* (2009)  
+**Key Arguments:**
+- Online harassment is a **systemic** tool to silence women in public discourse
+- The "marketplace of ideas" is gendered — women's speech policed through sexualized threats
+- Feminist public intellectuals face distinct, targeted campaigns of intimidation
+- Platform inaction constitutes **active complicity** in silencing women
+
+**Personal Experience:**
+- Target of sustained online harassment and threats since early blogging days (2000s)
+- 2016: Left social media temporarily after rape and death threats against her **5-year-old daughter**
+- Documents harassment toll in *Sex Object*
+
+**Connection to Platform Power:**
+- First-hand documentation of platform failures to protect women
+- Harassment as **structural feature**, not bug, of platform design
+- Shows how "free speech" platforms enable gendered violence
+- **Abortion, Every Day** newsletter — tracking post-Roe digital surveillance
+
+**Essential Reading:**
+- *Sex Object* — memoir of harassment and resilience
+- Guardian columns on online abuse (2014–present)
+- "Abortion, Every Day" newsletter — reproductive justice + digital rights
+
+---
+
+### Laurie Penny
+**Book:** *Cybersexism: Sex, Gender and Power on the Internet* (2013)  
+**Key Arguments:**
+- **"Online is real"**: Digital harassment has real-world impacts on women's safety and participation
+- Threats of rape and violence are used to **silence female voices** in public discourse
+- The structure of online misogyny reflects offline power relations
+- Makes case for **real freedom of speech** — which requires safety for marginalized voices
+
+**Personal Experience:**
+- Wrote *Cybersexism* from a **safe house** after receiving violent threats on Twitter
+- Documented how online abuse escalated from digital to physical threats
+- Experienced firsthand how platforms fail to protect women
+
+**Connection to Platform Power:**
+- Early analysis (2013) of platform architecture enabling misogyny
+- "Free speech for everyone" requires addressing **cybersexism as barrier to entry**
+- Connects "free speech absolutism" to actual silencing of women
+
+**Essential Reading:**
+- *Cybersexism* — short e-book analyzing gender and power online
+- "Unspeakable Things" (2014) — feminism, social media, and speaking out
+- Columns for The Guardian, New Statesman on digital culture
+
+---
+
+### Amanda Hess
+**Key Article:** "Why Women Aren't Welcome on the Internet" (*Pacific Standard*, 2014)  
+**Key Arguments:**
+- Women's online harassment is **qualitatively different** from men's — more pervasive, more vicious
+- Standard advice "just ignore it" ignores the **real psychological and professional costs**
+- Platform responses to harassment are **inadequate by design**
+- Online abuse functions as a **barrier to women's public participation**
+
+**Impact:**
+- 2014 article went viral, helped mainstream conversation about online harassment
+- Interviewed by NPR, Mother Jones, established her as key voice on topic
+- Influenced subsequent platform policy discussions
+
+**Connection to Platform Power:**
+- Empirical documentation of **gendered asymmetry** in online abuse
+- "Ignore the barrage of violent threats" — what women are told vs. reality
+- Shows how platform "neutrality" enables systematic gendered violence
+
+**Essential Reading:**
+- "Why Women Aren't Welcome on the Internet" (Pacific Standard, Jan 6, 2014)
+- Coverage in NPR, Mother Jones on Internet harassment of women
+- Contemporary work on technology, gender, and culture
+
+---
+
+### Charlton McIlwain
+**Book:** *Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter* (2019, Oxford University Press)  
+**Key Arguments:**
+- The story of racial justice organizing online is **much longer** than most people know
+- Reveals collaboration between federal government, computing industry, and elite institutions
+- These collaborations used technology for **containing, profiling, and detaining Black Americans** since the 1960s
+- Black activists turned digital technology into **instrument of resistance**
+
+**Key Concepts:**
+- **"The Vanguard"**: African American technologists building computer-based networks/social networks in late 1980s–early 1990s
+- **AfroNet to Black Lives Matter**: Six-decade history of digital racial justice activism
+
+**Connection to Platform Power:**
+- Platforms have **always been racialized** — not neutral then, not neutral now
+- Same infrastructures used for control can be repurposed for liberation
+- History shows digital "innovation" often serves surveillance and containment
+
+**Essential Reading:**
+- *Black Software* — full historical account from AfroNet to BLM
+- "The Vanguard" concept for understanding Black tech history
+
+---
+
+### Mary Gray & Siddharth Suri
+**Book:** *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (2019, Houghton Mifflin Harcourt)  
+**Key Arguments:**
+- **Invisible human workforce** powers the web and "AI" systems
+- Task-based, content-driven work funneled through APIs
+- Includes labeling, editing, sorting, **content moderation**
+- Workers are hidden beneath the surface while tech companies claim automation
+
+**Key Concepts:**
+- **Ghost work**: Hidden labor that makes automated systems appear intelligent
+- **API-driven exploitation**: Work fragmented and distributed globally
+- **New global underclass**: Tech industry creating precarious workforce at scale
+
+**Connection to Platform Power:**
+- Content moderation (speech control) done by invisible, precarious workers
+- "AI" that polices speech is actually **human labor** hidden behind interfaces
+- Platform "algorithms" are human-augmented, but workers are erased from narrative
+
+**Essential Reading:**
+- *Ghost Work* — exposé of invisible labor behind digital economy
+- ghostwork.info — companion website with resources
+
+---
+
+### Brooke Erin Duffy
+**Book:** *(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work* (2017)  
+**Key Arguments:**
+- **Aspirational work**: Promise that anyone can "make it" in social media economy
+- Reality: Many find only **unpaid work** or exploitation
+- **Women especially exploited** as line blurs between hobby and career
+- Discourses of democratization, authenticity mask precarious economic reality
+
+**Key Concepts:**
+- **Aspirational labor**: Work done for potential future payoff, rarely materializing
+- **Self-branding**: Strategic individualization in unstable economy
+- **Gendered exploitation**: Women bear disproportionate burden of unpaid aspirational work
+
+**Connection to Platform Power:**
+- Platforms sell dream of "doing what you love" while extracting free labor
+- Content creation (including speech/politics) becomes uncompensated "hobby"
+- **Who can afford to speak?** Only those with economic cushion for unpaid labor
+
+**Essential Reading:**
+- *(Not) Getting Paid to Do What You Love* — gendered dynamics of creator economy
+- Work on influencers, fashion bloggers, food writers as case studies
+
+---
+
+### Gina Neff
+**Book:** *Venture Labor: Work and the Burden of Risk in Innovative Industries* (2012, MIT Press)  
+**Key Arguments:**
+- **Venture labor**: Workers bearing risk in name of innovation/creativity
+- Dot-com boom: Employees left stable jobs for stock options, ended up unemployed
+- **Speculation drives precarity**: Financial risk shifted to individual workers
+- Creative work used to justify precarious conditions and neoliberal governance
+
+**Key Concepts:**
+- **Affective attachments**: Emotional investment in entrepreneurial work
+- **Burden of risk**: How "opportunity" masks exploitation
+- **Innovation industries**: How tech sector restructures work relations
+
+**Connection to Platform Power:**
+- Platform work (content creation, moderation) framed as "entrepreneurship"
+- Workers absorb all risk while platforms capture value
+- **"Being your own boss"** = bearing all risk with none of the rewards
+
+**Essential Reading:**
+- *Venture Labor* — dot-com boom lessons for today's platform economy
+- Analysis of how financial speculation reshapes work
+
+---
+
+### Catherine Knight Steele
+**Book:** *Digital Black Feminism* (2021, NYU Press)  
+**Key Arguments:**
+- Uses **"virtual beauty shop"** metaphor for Black women's digital labor
+- Black women have maximized platform affordances through **technical skill, communicative expertise, entrepreneurial acumen**
+- Survival strategies and economic necessity produced **innovations later appropriated by mainstream**
+- Black feminism becoming a **digital product** has both opportunities and dangers
+
+**Key Concepts:**
+- **Virtual beauty shop**: Space of Black women's knowledge-sharing and labor
+- **Platform migration leadership**: Black women leading moves between platforms
+- **Precursors to influencer culture**: Black women invented monetization strategies later mainstreamed
+
+**Connection to Platform Power:**
+- Black women as **innovators** who platforms later exploit
+- Same survival strategies become business models for others
+- Question of who profits from Black women's digital labor
+
+**Essential Reading:**
+- *Digital Black Feminism* — full monograph on Black women's digital culture
+- "When the Black lives that matter are not our own" — article on self-care and community
+
+---
+
+### Stanley Fish
+**Book:** *There's No Such Thing as Free Speech: And It's a Good Thing, Too* (1994, Oxford University Press)  
+**Key Arguments:**
+- **Free speech is not an absolute** — it's always regulated, always contextual
+- "Free speech absolutism" is **ideological position**, not neutral principle
+- Speech is already constrained by time, place, manner regulations
+- The question is not *whether* to regulate, but **who decides** and **in whose interest**
+
+**Key Concepts:**
+- **Interpretive communities**: Meaning emerges from social contexts, not abstract principles
+- **Ideological gridlock**: False binary between "free speech" and "censorship"
+- **Neutrality is impossible**: All speech regimes favor some voices over others
+
+**Connection to Platform Power:**
+- Platform "content moderation" is **speech regulation** — the question is who benefits
+- "Free speech" platforms often amplify powerful voices, silence marginalized ones
+- Need to ask: **Free speech for whom?** Under what conditions?
+
+**Essential Reading:**
+- *There's No Such Thing as Free Speech* — foundational critique of free speech absolutism
+- Essays on First Amendment, academic freedom, hate speech
+
+---
+
+### Timur Kuran
+**Book:** *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (1995, Harvard University Press)  
+**Key Arguments:**
+- **Preference falsification**: Misrepresenting one's wants under perceived social pressure
+- Even "free" citizens can be pressured into **"living a lie"**
+- Public preferences diverge from private beliefs — with social consequences
+- Systematic self-censorship distorts public discourse
+
+**Key Concepts:**
+- **Preference falsification**: Hiding true beliefs to conform
+- **Social pressure**: How informal norms constrain speech
+- **Cumulative effects**: Individual self-censorship creates collective ignorance
+
+**Connection to Platform Power:**
+- Platform harassment creates **preference falsification environment**
+- Marginalized people hide views to avoid abuse — **silencing without bans**
+- "Free speech" platforms can be most censorious through social pressure
+
+**Essential Reading:**
+- *Private Truths, Public Lies* — how social pressure shapes public discourse
+- Applications to political regimes, social movements, platform dynamics
+
+---
+
+### Cass Sunstein
+**Book:** *#Republic: Divided Democracy in the Age of Social Media* (2017, Princeton University Press)  
+**Key Arguments:**
+- **Social media drives political fragmentation, polarization, extremism**
+- Algorithms sort us into "echo chambers" of like-minded people
+- Makes it **more difficult to find common ground** with political opponents
+- Nothing less than **the fate of the republic** hangs on addressing this
+
+**Key Concepts:**
+- **Echo chambers**: Environments where only confirming views are heard
+- **Filter bubbles**: Personalized information environments
+- **Epistemic fragmentation**: Loss of shared factual basis for democracy
+
+**Connection to Platform Power:**
+- Platforms **architecturally designed** to create echo chambers
+- Engagement-based algorithms fragment public discourse
+- The "marketplace of ideas" becomes **isolated marketplaces** that don't interact
+
+**Essential Reading:**
+- *#Republic* — social media and democratic fragmentation
+- *Infotopia* (2008), *Echo Chambers* (2007) — earlier work on group polarization
+
+---
+
 ## Research Questions
 
 ### Gender Dimension
@@ -234,22 +525,22 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 ### Race & Platform Power
 - [x] **Safiya Noble** — *Algorithms of Oppression* ✓ RESEARCHED
 - [x] **Ruha Benjamin** — *Race After Technology* ✓ RESEARCHED
-- [ ] **Charlton McIlwain** — *Black Software* (Black activism and technology)
+- [x] **Charlton McIlwain** — *Black Software* ✓ RESEARCHED
 
 ### Class & Digital Inequality
-- [ ] **Mary Gray & Siddharth Suri** — *Ghost Work* (invisible labor behind platforms)
-- [ ] **Brooke Erin Duffy** — *(Not) Getting Paid to Do What You Love* (creator economy exploitation)
-- [ ] **Gina Neff** — *Venture Labor* (startup culture and precarity)
+- [x] **Mary Gray & Siddharth Suri** — *Ghost Work* ✓ RESEARCHED
+- [x] **Brooke Erin Duffy** — *(Not) Getting Paid to Do What You Love* ✓ RESEARCHED
+- [x] **Gina Neff** — *Venture Labor* ✓ RESEARCHED
 
 ### Intersectional Approaches
-- [x] **Kimberlé Crenshaw** — intersectionality theory (foundational — already established)
+- [x] **Kimberlé Crenshaw** — intersectionality theory (foundational)
 - [x] **Moya Bailey** — *Misogynoir Transformed* ✓ RESEARCHED
-- [ ] **Catherine Steele** — digital Black feminism
+- [x] **Catherine Knight Steele** — *Digital Black Feminism* ✓ RESEARCHED
 
 ### Free Speech Critical Theory
-- [ ] **Stanley Fish** — "There's No Such Thing as Free Speech"
-- [ ] **Timur Kuran** — preference falsification and social pressure
-- [ ] **Cass Sunstein** — echo chambers and epistemic fragmentation
+- [x] **Stanley Fish** — "There's No Such Thing as Free Speech" ✓ RESEARCHED
+- [x] **Timur Kuran** — *Private Truths, Public Lies* ✓ RESEARCHED
+- [x] **Cass Sunstein** — *#Republic* ✓ RESEARCHED
 
 ---
 
