@@ -368,6 +368,124 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 
 ---
 
+### Rob Okun
+**Book:** *Voice Male: The Untold Story of the Pro-Feminist Men's Movement* (2014/2018, Interlink Publishing)  
+**Key Arguments:**
+- **Pro-feminist men's movement** is redefining masculinity and challenging patriarchy
+- Men must examine their complicity in systems of gender-based violence
+- **Anti-sexist work by men** is essential for deconstructing patriarchal structures
+- Topics: men and violence, boys becoming men, fathering, male survivors, men and feminism
+
+**Key Concepts:**
+- **Social transformation of masculinities**: Changing what it means to "be a real man"
+- **Male allyship**: Men as active participants in feminist struggles
+- **Deconstructing patriarchy**: Shifting paradigms of manhood
+
+**Connection to Platform Power:**
+- Online harassment is **gendered violence** enabled by patriarchal platform cultures
+- Men's silence on platform abuse = complicity in silencing women
+- **Male-dominated tech industry** produces architectures that reflect patriarchal values
+- Pro-feminist men needed to **redesign platforms** away from aggression/competition
+
+**Essential Reading:**
+- *Voice Male* — anthology of pro-feminist men's writing
+- Voice Male magazine (editor) — chronicling anti-sexist men's work
+- Essays on gender-based violence, men's health, GBTQ issues
+
+---
+
+## Theoretical Framework: Platforms as Architectures of Power
+
+### Synthesis of Core Arguments
+
+All 13 authors converge on a central thesis: **Mainstream social media platforms are not neutral "marketplaces of ideas" but active producers of inequality that systematically privilege certain voices while marginalizing others.**
+
+### The Three Dimensions of Platform Power
+
+#### 1. Visibility (Who Gets Heard)
+| Mechanism | Effect | Key Authors |
+|-----------|--------|-------------|
+| **Algorithmic amplification** | Privileges outrage/aggression; punishes nuance | Noble, Benjamin, Sunstein |
+| **Search bias** | Renders marginalized groups invisible or hyper-sexualized | Noble |
+| **Echo chambers** | Fragments public discourse; prevents cross-group understanding | Sunstein, Kuran |
+| **Aspirational labor economics** | Only those with economic cushion can afford to speak | Duffy, Neff |
+
+#### 2. Safety (Who Gets Harassed)
+| Mechanism | Effect | Key Authors |
+|-----------|--------|-------------|
+| **Gendered harassment** | Sexualized threats silence women | Chemaly, Valenti, Penny, Hess |
+| **Misogynoir** | Anti-Black misogyny as distinct, unrecognized phenomenon | Bailey, Steele |
+| **Cybersexism** | Platform architectures enable systemic misogyny | Penny |
+| **Preference falsification** | Self-censorship through social pressure | Kuran |
+
+#### 3. Labor (Who Does the Work)
+| Mechanism | Effect | Key Authors |
+|-----------|--------|-------------|
+| **Ghost work** | Invisible human labor powers "automated" moderation | Gray & Suri |
+| **Aspirational labor** | Unpaid content creation as exploitation | Duffy |
+| **Venture labor** | Risk shifted to individual creators | Neff |
+| **Resistance labor** | Marginalized groups do extra work to survive platforms | Bailey, Steele, McIlwain |
+
+### The Free Speech Paradox
+
+**Stanley Fish** establishes: All speech is already regulated. The question is not *whether* but *who decides* and *in whose interest*.
+
+Platform "free speech absolutism" claims neutrality while:
+- **Amplifying** dominant voices (white, male, wealthy)
+- **Silencing** marginalized voices through harassment, algorithmic invisibility, economic exclusion
+- **Erasing** the ghost workers who make speech moderation possible
+
+**Timur Kuran** adds: When platforms enable harassment, they create **preference falsification environments** where marginalized people hide their views to survive — achieving censorship without explicit bans.
+
+### Intersectionality at the Platform Level
+
+**Kimberlé Crenshaw's** framework applied to platform power:
+- Gender × Race: **Misogynoir** (Bailey) — Black women face distinct harms
+- Gender × Class: **Aspirational labor** (Duffy) — women work unpaid for visibility
+- Race × Class: **Ghost work** (Gray & Suri) — Global South workers invisibly power platforms
+- Gender × Race × Class: **Triple burden** — Women of color do survival labor while platforms profit
+
+### Historical Continuity
+
+**Charlton McIlwain's** *Black Software* shows: Platforms have **always been racialized**.
+- 1960s: Computing used for Black containment/surveillance
+- 1990s: Black innovators built early digital networks (AfroNet)
+- Today: Same infrastructures enable both resistance (BLM) and control (algorithmic policing)
+
+**Ruha Benjamin's** "New Jim Code": Digital innovation often **reinforces** rather than disrupts racial control.
+
+### The Masculinity Factor
+
+**Rob Okun's** pro-feminist perspective adds: Platform architectures reflect **patriarchal values**.
+- Aggression rewarded, care work devalued
+- Competition privileged over collaboration
+- Male-dominated tech industry designs systems that enable gendered violence
+- **Male allyship** needed in platform design, not just moderation
+
+### Resistance Strategies
+
+Despite platform power, marginalized groups develop **sophisticated resistance**:
+- **Digital Black feminism** (Steele): Virtual beauty shops as knowledge spaces
+- **Misogynoir transformation** (Bailey): Reclaiming autonomy through digital storytelling
+- **Black Software** (McIlwain): Repurposing control infrastructures for liberation
+- **Cross-platform migration**: Moving when spaces become unsafe (requires resources)
+
+### Research Agenda
+
+**Methodological approach:**
+1. **Critical platform studies** (combining STS, critical race theory, feminist theory)
+2. **Empirical documentation** of moderation bias, algorithmic outcomes, harassment patterns
+3. **Political economy analysis** of who profits from platform architectures
+4. **Participatory research** with marginalized communities
+
+**Key questions:**
+- How do platform "affordances" differently enable/discourage speech by gender/race/class?
+- What would **feminist, anti-racist platform design** look like?
+- Can alternative platforms (Fediverse) escape these dynamics — or reproduce them?
+- What role for **pro-feminist men** in transforming platform cultures?
+
+---
+
 ## Research Questions
 
 ### Gender Dimension
@@ -541,6 +659,9 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 - [x] **Stanley Fish** — "There's No Such Thing as Free Speech" ✓ RESEARCHED
 - [x] **Timur Kuran** — *Private Truths, Public Lies* ✓ RESEARCHED
 - [x] **Cass Sunstein** — *#Republic* ✓ RESEARCHED
+
+### Pro-Feminist Perspectives
+- [x] **Rob Okun** — *Voice Male*, pro-feminist men's movement ✓ RESEARCHED
 
 ---
 
