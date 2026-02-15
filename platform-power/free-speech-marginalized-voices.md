@@ -33,6 +33,50 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 
 ---
 
+### Safiya Umoja Noble
+**Book:** *Algorithms of Oppression: How Search Engines Reinforce Racism* (2018, NYU Press)  
+**Key Arguments:**
+- Search engines are **not neutral** — they actively privilege whiteness
+- Algorithms reproduce and amplify racist and sexist beliefs
+- Data discrimination is a real social problem with material consequences
+- Women of color are particularly affected by algorithmic bias
+
+**Key Example:**
+- 2011: Google search for "Black girls" returned pornographic results
+- Demonstrates how platform architectures encode and spread harmful stereotypes
+
+**Connection to Platform Power:**
+- Search algorithms shape what information is "findable" and thus "knowable"
+- Platform "neutrality" masks active participation in racial ordering
+- Commercial imperatives override ethical considerations in algorithm design
+
+**Essential Reading:**
+- *Algorithms of Oppression* — full monograph on search engine bias
+- "Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible" (2013)
+
+---
+
+### Moya Bailey
+**Book:** *Misogynoir Transformed: Black Women's Digital Resistance* (2021, NYU Press)  
+**Key Arguments:**
+- Coined the term **"misogynoir"** (2010): the unique co-constitutive racialized and sexist violence against Black women
+- Black women face distinct forms of online harassment combining racism and sexism
+- Digital spaces are both sites of oppression **and** resistance for Black women
+- Black women actively work to disrupt racist misogyny and reclaim autonomy
+
+**Definition:** Misogynoir describes how anti-Black and misogynistic oppression intersect, creating unique vulnerabilities for Black women in digital spaces.
+
+**Connection to Platform Power:**
+- Platform architectures enable specific forms of anti-Black misogyny
+- Content moderation fails to recognize misogynoir as distinct phenomenon
+- Black women develop sophisticated resistance strategies within constrained digital environments
+
+**Essential Reading:**
+- *Misogynoir Transformed* — Black women's digital resistance strategies
+- "They Aren't Talking About Me...": The Work of Misogynoir in Digital Spaces
+
+---
+
 ## Research Questions
 
 ### Gender Dimension
@@ -88,7 +132,7 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 - [ ] **Amanda Hess** — "Why Women Aren't Welcome on the Internet" (Pacific Standard)
 
 ### Race & Platform Power
-- [ ] **Safiya Noble** — *Algorithms of Oppression* (search engine bias)
+- [x] **Safiya Noble** — *Algorithms of Oppression* ✓ RESEARCHED
 - [ ] **Ruha Benjamin** — *Race After Technology* (technological racism)
 - [ ] **Charlton McIlwain** — *Black Software* (Black activism and technology)
 
@@ -98,9 +142,9 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 - [ ] **Gina Neff** — *Venture Labor* (startup culture and precarity)
 
 ### Intersectional Approaches
-- [ ] **Kimberlé Crenshaw** — intersectionality theory (foundational)
+- [x] **Kimberlé Crenshaw** — intersectionality theory (foundational — already established)
+- [x] **Moya Bailey** — *Misogynoir Transformed* ✓ RESEARCHED
 - [ ] **Catherine Steele** — digital Black feminism
-- [ ] **Moya Bailey** — *Misogynoir Transformed* (anti-Black misogyny online)
 
 ### Free Speech Critical Theory
 - [ ] **Stanley Fish** — "There's No Such Thing as Free Speech"
