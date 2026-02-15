@@ -174,12 +174,62 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 
 ---
 
+### Laurie Penny
+**Book:** *Cybersexism: Sex, Gender and Power on the Internet* (2013)  
+**Key Arguments:**
+- **"Online is real"**: Digital harassment has real-world impacts on women's safety and participation
+- Threats of rape and violence are used to **silence female voices** in public discourse
+- The structure of online misogyny reflects offline power relations
+- Makes case for **real freedom of speech** — which requires safety for marginalized voices
+
+**Personal Experience:**
+- Wrote *Cybersexism* from a **safe house** after receiving violent threats on Twitter
+- Documented how online abuse escalated from digital to physical threats
+- Experienced firsthand how platforms fail to protect women
+
+**Connection to Platform Power:**
+- Early analysis (2013) of platform architecture enabling misogyny
+- "Free speech for everyone" requires addressing **cybersexism as barrier to entry**
+- Connects "free speech absolutism" to actual silencing of women
+
+**Essential Reading:**
+- *Cybersexism* — short e-book analyzing gender and power online
+- "Unspeakable Things" (2014) — feminism, social media, and speaking out
+- Columns for The Guardian, New Statesman on digital culture
+
+---
+
+### Amanda Hess
+**Key Article:** "Why Women Aren't Welcome on the Internet" (*Pacific Standard*, 2014)  
+**Key Arguments:**
+- Women's online harassment is **qualitatively different** from men's — more pervasive, more vicious
+- Standard advice "just ignore it" ignores the **real psychological and professional costs**
+- Platform responses to harassment are **inadequate by design**
+- Online abuse functions as a **barrier to women's public participation**
+
+**Impact:**
+- 2014 article went viral, helped mainstream conversation about online harassment
+- Interviewed by NPR, Mother Jones, established her as key voice on topic
+- Influenced subsequent platform policy discussions
+
+**Connection to Platform Power:**
+- Empirical documentation of **gendered asymmetry** in online abuse
+- "Ignore the barrage of violent threats" — what women are told vs. reality
+- Shows how platform "neutrality" enables systematic gendered violence
+
+**Essential Reading:**
+- "Why Women Aren't Welcome on the Internet" (Pacific Standard, Jan 6, 2014)
+- Coverage in NPR, Mother Jones on Internet harassment of women
+- Contemporary work on technology, gender, and culture
+
+---
+
 ## To Research: Additional Authors
 
 ### Gender & Digital Labor/Speech
 - [x] **Jessica Valenti** — feminist digital culture, online harassment ✓ RESEARCHED
-- [ ] **Laurie Penny** — cybermisogyny, platform sexism
-- [ ] **Amanda Hess** — "Why Women Aren't Welcome on the Internet" (Pacific Standard)
+- [x] **Laurie Penny** — cybermisogyny, platform sexism ✓ RESEARCHED
+- [x] **Amanda Hess** — "Why Women Aren't Welcome on the Internet" (Pacific Standard) ✓ RESEARCHED
 
 ### Race & Platform Power
 - [x] **Safiya Noble** — *Algorithms of Oppression* ✓ RESEARCHED
