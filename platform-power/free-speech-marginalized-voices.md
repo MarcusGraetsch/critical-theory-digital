@@ -124,16 +124,66 @@ Mainstream social media platforms are not neutral "marketplaces of ideas" but **
 
 ---
 
+### Ruha Benjamin
+**Book:** *Race After Technology: Abolitionist Tools for the New Jim Code* (2019, Polity Press)  
+**Key Arguments:**
+- Technology is not "neutral" — it embeds and amplifies racial hierarchies
+- **"The New Jim Code"**: How digital tools replicate and deepen racial control
+- Innovation often **reinforces** rather than undermines systems of racial inequality
+- Race is a **product** of technology, not just affected by it
+
+**Key Concepts:**
+- **Coded inequality**: How algorithms naturalize racial disparities
+- **Technological benevolence**: The myth that tech "fixes" social problems
+- **Innovation as politics**: Every design choice encodes political values
+
+**Connection to Platform Power:**
+- Social media platforms are not "neutral infrastructure" but active producers of racial ordering
+- "Engagement" metrics encode racialized attention economies
+- Platform "innovations" (algorithms, moderation) reproduce carceral logics
+
+**Essential Reading:**
+- *Race After Technology* — full framework for understanding technological racism
+- "Catching Our Breath: Critical Race STS and the Carceral Imagination" (2016)
+
+---
+
+### Jessica Valenti
+**Books:** *Sex Object: A Memoir* (2016), *Full Frontal Feminism* (2007), *The Purity Myth* (2009)  
+**Key Arguments:**
+- Online harassment is a **systemic** tool to silence women in public discourse
+- The "marketplace of ideas" is gendered — women's speech policed through sexualized threats
+- Feminist public intellectuals face distinct, targeted campaigns of intimidation
+- Platform inaction constitutes **active complicity** in silencing women
+
+**Personal Experience:**
+- Target of sustained online harassment and threats since early blogging days (2000s)
+- 2016: Left social media temporarily after rape and death threats against her **5-year-old daughter**
+- Documents harassment toll in *Sex Object*
+
+**Connection to Platform Power:**
+- First-hand documentation of platform failures to protect women
+- Harassment as **structural feature**, not bug, of platform design
+- Shows how "free speech" platforms enable gendered violence
+- **Abortion, Every Day** newsletter — tracking post-Roe digital surveillance
+
+**Essential Reading:**
+- *Sex Object* — memoir of harassment and resilience
+- Guardian columns on online abuse (2014–present)
+- "Abortion, Every Day" newsletter — reproductive justice + digital rights
+
+---
+
 ## To Research: Additional Authors
 
 ### Gender & Digital Labor/Speech
-- [ ] **Jessica Valenti** — feminist digital culture, online harassment
+- [x] **Jessica Valenti** — feminist digital culture, online harassment ✓ RESEARCHED
 - [ ] **Laurie Penny** — cybermisogyny, platform sexism
 - [ ] **Amanda Hess** — "Why Women Aren't Welcome on the Internet" (Pacific Standard)
 
 ### Race & Platform Power
 - [x] **Safiya Noble** — *Algorithms of Oppression* ✓ RESEARCHED
-- [ ] **Ruha Benjamin** — *Race After Technology* (technological racism)
+- [x] **Ruha Benjamin** — *Race After Technology* ✓ RESEARCHED
 - [ ] **Charlton McIlwain** — *Black Software* (Black activism and technology)
 
 ### Class & Digital Inequality
