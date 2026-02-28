@@ -1,7 +1,7 @@
 # TODO.md — Digital Capitalism Research
 
 **Scope:** Research, analysis, and writing on platform capitalism, gig economy, digital labor
-**Repo:** cyberspace-project
+**Repo:** critical-theory-digital
 **Last Updated:** 2026-02-11
 
 ---
