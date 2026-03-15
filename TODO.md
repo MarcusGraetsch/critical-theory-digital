@@ -60,11 +60,12 @@
 ## 🟢 ONGOING — Monitoring & Sources
 
 ### News Infrastructure
-- [ ] **Fix Search Infrastructure**
-  - DuckDuckGo blocking automated searches (CAPTCHA)
-  - Brave Search hitting rate limits
-  - Alternative: RSS feeds from HRW, ETUI, EPSU, ILR Review
-  - Alternative: Direct API access to news sources
+- [x] **Fix Search Infrastructure** ✅ DONE (2026-03-14)
+  - ~~DuckDuckGo blocking automated searches (CAPTCHA)~~
+  - ~~Brave Search hitting rate limits~~
+  - **Lösung:** Multi-search-engine Skill installiert (17 Suchmaschinen)
+  - **Strategie:** Google → DuckDuckGo → Brave Fallback
+  - **Result:** Daily News Scan wieder aktiv
 
 - [ ] **Deep Scan LabourNet.de**
   - Search: Lieferando, Amazon.de, Uber Germany
